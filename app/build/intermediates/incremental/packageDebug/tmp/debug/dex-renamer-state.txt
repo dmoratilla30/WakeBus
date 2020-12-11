@@ -1,0 +1,7 @@
+#Fri Dec 11 01:10:02 CET 2020
+base.0=C\:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

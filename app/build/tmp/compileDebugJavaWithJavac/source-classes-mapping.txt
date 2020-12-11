@@ -1,0 +1,6 @@
+com/dmoratilla30/wakebus/DatabaseAccess.java
+ com.dmoratilla30.wakebus.DatabaseAccess
+com/dmoratilla30/wakebus/BuildConfig.java
+ com.dmoratilla30.wakebus.BuildConfig
+com/dmoratilla30/wakebus/DatabaseOpenHelper.java
+ com.dmoratilla30.wakebus.DatabaseOpenHelper

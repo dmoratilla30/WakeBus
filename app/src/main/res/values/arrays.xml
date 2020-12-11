@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="distancia_titles">
+        <item>50m (muy cerca)</item>
+        <item>100m</item>
+        <item>200m</item>
+        <item>300m (muy lejos)</item>
+    </string-array>
+    <string-array name="distancia_values">
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="ringtone_titles">
+        <item>Default</item>
+        <item>Argon</item>
+        <item>Barium</item>
+        <item>BeepBeep Alarm</item>
+        <item>Buzzer Alarm</item>
+        <item>Carbon</item>
+        <item>Cesium</item>
+        <item>Fermium</item>
+        <item>Krypton</item>
+        <item>Neon</item>
+        <item>Oxygen</item>
+        <item>Platinum</item>
+        <item>Rooster Alarm</item>
+    </string-array>
+    <string-array name="ringtone_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <CheckBoxPreference
+        app:key="checkbox"
+        app:defaultValue="true"
+        app:summary="Su telefono vibrará cuando salte la alarma"
+        app:title="Vibración" />
+    <ListPreference
+        app:defaultValue="0"
+        app:dialogTitle="Seleccionar tono"
+        app:entries="@array/ringtone_titles"
+        app:entryValues="@array/ringtone_values"
+        app:key="list"
+        app:title="Tono de alarma" />
+    <ListPreference
+        app:defaultValue="100"
+        app:dialogTitle="Seleccionar distancia"
+        app:entries="@array/distancia_titles"
+        app:entryValues="@array/distancia_values"
+        app:key="list2"
+        app:summary="Metros de distancia al destino para activar alarma"
+        app:title="Distancia de alarma" />
+    <!--<EditTextPreference
+        app:dialogTitle="Enter a text"
+        app:key="text"
+        app:summary="Click to show a text entry dialog"
+        app:title="EditText Preference" />
+    <SwitchPreference
+        app:key="switch"
+        app:title="Switch Preference"
+        app:summary="Click to switch on or off"
+        app:defaultValue="true"/>-->
+</PreferenceScreen>

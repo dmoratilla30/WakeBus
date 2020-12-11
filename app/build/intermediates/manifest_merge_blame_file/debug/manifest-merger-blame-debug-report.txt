@@ -1,0 +1,124 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.wakebus"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:6:5-66
+11-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:7:5-78
+12-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:10:5-66
+14-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:10:22-63
+15
+16    <application
+16-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:12:5-39:19
+17        android:allowBackup="true"
+17-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:13:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.3.2] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\80bb011650aac5452efa6d1fcdab7fb5\core-1.3.2\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:fullBackupContent="@xml/backup_descriptor"
+20-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:19:9-59
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:14:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:15:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:16:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:17:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:18:9-40
+27        <activity android:name="com.dmoratilla30.wakebus.HomeActivity" >
+27-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:21:9-26:20
+27-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:21:19-71
+28            <intent-filter>
+28-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:22:13-25:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:23:17-69
+29-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:23:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:24:17-77
+31-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:24:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:27:9-28:40
+35            android:name="com.dmoratilla30.wakebus.BusquedaActivity"
+35-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:27:19-75
+36            android:label="Búsqueda" />
+36-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:28:13-37
+37        <activity
+37-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:29:9-30:48
+38            android:name="com.dmoratilla30.wakebus.LocalizacionActivity"
+38-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:29:19-79
+39            android:label="Ubicación actual" />
+39-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:30:13-45
+40        <activity
+40-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:31:9-32:53
+41            android:name="com.dmoratilla30.wakebus.DestinoActivity"
+41-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:31:19-74
+42            android:label="Seleccione su destino" />
+42-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:32:13-50
+43        <activity
+43-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:33:9-34:51
+44            android:name="com.dmoratilla30.wakebus.ParadasActivity"
+44-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:33:19-74
+45            android:label="Registro de paradas" />
+45-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:34:13-48
+46        <activity
+46-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:35:9-36:38
+47            android:name="com.dmoratilla30.wakebus.AlarmaActivity"
+47-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:35:19-73
+48            android:label="Alarma" />
+48-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:36:13-35
+49        <activity
+49-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:37:9-38:45
+50            android:name="com.dmoratilla30.wakebus.ConfiguracionActivity"
+50-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:37:19-80
+51            android:label="Configuración" />
+51-->C:\Users\dmora\AndroidStudioProjects\WakeBus2\app\src\main\AndroidManifest.xml:38:13-42
+52        <activity
+52-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\d40d9ac861aad5193f3cb20da3261a62\jetified-play-services-base-17.3.0\AndroidManifest.xml:23:9-26:75
+53            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+53-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\d40d9ac861aad5193f3cb20da3261a62\jetified-play-services-base-17.3.0\AndroidManifest.xml:24:13-79
+54            android:exported="false"
+54-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\d40d9ac861aad5193f3cb20da3261a62\jetified-play-services-base-17.3.0\AndroidManifest.xml:25:13-37
+55            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+55-->[com.google.android.gms:play-services-base:17.3.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\d40d9ac861aad5193f3cb20da3261a62\jetified-play-services-base-17.3.0\AndroidManifest.xml:26:13-72
+56
+57        <meta-data
+57-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\02c8761f6e70ec2948058bc5ef2fec67\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+58            android:name="com.google.android.gms.version"
+58-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\02c8761f6e70ec2948058bc5ef2fec67\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+59            android:value="@integer/google_play_services_version" />
+59-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\02c8761f6e70ec2948058bc5ef2fec67\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+60
+61        <provider
+61-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\42a1a201e01ace92762d9d0aa1af9841\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+62            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\42a1a201e01ace92762d9d0aa1af9841\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+63            android:authorities="com.example.wakebus.lifecycle-process"
+63-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\42a1a201e01ace92762d9d0aa1af9841\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+64            android:exported="false"
+64-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\42a1a201e01ace92762d9d0aa1af9841\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+65            android:multiprocess="true" />
+65-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\dmora\.gradle\caches\transforms-2\files-2.1\42a1a201e01ace92762d9d0aa1af9841\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+66    </application>
+67
+68</manifest>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    tools:context=".HomeActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="355dp"
+        android:layout_marginBottom="47dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/wakebus_logo" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/cambiarConfiguracion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:clickable="true"
+        android:focusable="true"
+        android:soundEffectsEnabled="false"
+        android:tint="@color/colorPrimaryDark"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/cambiarLocalizacion"
+        app:layout_constraintEnd_toEndOf="@+id/cambiarLocalizacion"
+        app:srcCompat="@drawable/ic_settings"/>
+    <TextView
+        android:id="@+id/textConfiguracion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Configuración"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/cambiarConfiguracion"
+        app:layout_constraintEnd_toStartOf="@+id/cambiarConfiguracion"
+        app:layout_constraintTop_toTopOf="@+id/cambiarConfiguracion"
+        app:layout_constraintVertical_bias="0.512" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/cambiarLocalizacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:clickable="true"
+        android:focusable="true"
+        android:tint="@color/colorPrimaryDark"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/cambiarParadas"
+        app:layout_constraintEnd_toEndOf="@+id/cambiarParadas"
+        app:srcCompat="@drawable/ic_location" />
+
+    <TextView
+        android:id="@+id/textLocalizacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Seleccionar destino"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/cambiarLocalizacion"
+        app:layout_constraintEnd_toStartOf="@+id/cambiarLocalizacion"
+        app:layout_constraintTop_toTopOf="@+id/cambiarLocalizacion"
+        app:layout_constraintVertical_bias="0.512" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/cambiarParadas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:clickable="true"
+        android:focusable="true"
+        android:tint="@color/colorPrimaryDark"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/cambiarBusqueda"
+        app:layout_constraintEnd_toEndOf="@+id/cambiarBusqueda"
+        app:srcCompat="@drawable/ic_assignment" />
+    <TextView
+        android:id="@+id/textParadas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Registro de paradas"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/cambiarParadas"
+        app:layout_constraintEnd_toStartOf="@+id/cambiarParadas"
+        app:layout_constraintTop_toTopOf="@+id/cambiarParadas"
+        app:layout_constraintVertical_bias="0.512" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/cambiarBusqueda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:clickable="true"
+        android:focusable="true"
+        android:tint="@color/colorPrimaryDark"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/mostrarMas"
+        app:layout_constraintEnd_toEndOf="@+id/mostrarMas"
+        app:srcCompat="@drawable/ic_search" />
+
+    <TextView
+        android:id="@+id/textBusqueda"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-smallcaps"
+        android:text="Buscar parada"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="@+id/cambiarBusqueda"
+        app:layout_constraintEnd_toStartOf="@+id/cambiarBusqueda"
+        app:layout_constraintTop_toTopOf="@+id/cambiarBusqueda"
+        app:layout_constraintVertical_bias="0.512" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/mostrarMas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:clickable="true"
+        android:focusable="true"
+        android:tint="@color/colorAccent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.956"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.972"
+        app:srcCompat="@drawable/ic_more" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

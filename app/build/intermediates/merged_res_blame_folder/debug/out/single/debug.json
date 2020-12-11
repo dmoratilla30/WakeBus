@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wakebus_logo.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\wakebus_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\anim_to_bottom_anim.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\anim\\to_bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_less.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\ic_less.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_alarma.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\layout\\activity_alarma.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_busqueda.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\layout\\activity_busqueda.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_box.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\round_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_localizacion.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\layout\\activity_localizacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_alarma.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable-v24\\alarma.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_destino.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\layout\\activity_destino.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate_close_anim.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\anim\\rotate_close_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_assignment.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\ic_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\anim_rotate_open_anim.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\anim\\rotate_open_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\anim_from_bottom_anim.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\anim\\from_bottom_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_box2.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\drawable\\round_box2.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_paradas.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\layout\\activity_paradas.xml"
+    },
+    {
+        "merged": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_configuracion.xml.flat",
+        "source": "C:\\Users\\dmora\\AndroidStudioProjects\\WakeBus2\\app\\src\\main\\res\\layout\\activity_configuracion.xml"
+    }
+]
